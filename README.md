@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing and testing machine learning models and supporting real-time data processing tasks as an ML Intern.<br><br><br>👯 I’m looking to collaborate on projects involving Data Visualization, Predictive Modeling, and Deep Learning.<br><br>🌱 I’m currently learning how to apply my skills in a professional tech environment and contributing to an analytics platform.<br><br>💬 Ask me about Python, Data Visualization with Tableau, Predictive Modeling, and using Scikit-learn or Keras.<br><br><br>⚡ Fun fact: In my free time, I enjoy photography, traveling, and reading books.
+🔭 I’m currently working on developing and testing machine learning models and supporting real-time data processing tasks as an ML Intern.<br><br>👯 I’m looking to collaborate on projects involving Data Visualization, Predictive Modeling, and Deep Learning.<br><br>🌱 I’m currently learning how to apply my skills in a professional tech environment and contributing to an analytics platform.<br><br>💬 Ask me about Python, Data Visualization with Tableau, Predictive Modeling, and using Scikit-learn or Keras.<br><br>⚡ Fun fact: In my free time, I enjoy photography, traveling, and reading books.
 
 
 ## 🌐 Socials:
